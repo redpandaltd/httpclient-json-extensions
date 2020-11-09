@@ -8,7 +8,7 @@
     <Authors>Goncalo Oliveira</Authors>
     <Company>RedPanda Ltd</Company>
     <Description>HTTP Client JSON Extensions</Description>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/redpandaltd/httpclient-json-extensions</RepositoryUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 

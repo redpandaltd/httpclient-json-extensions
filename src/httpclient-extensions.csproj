@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>System.Net.Http</RootNamespace>
+    <PackageId>Redpanda.Extensions.HttpClient.Json</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Goncalo Oliveira</Authors>
+    <Company>RedPanda Ltd</Company>
+    <Description>HTTP Client JSON Extensions</Description>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
